@@ -1,12 +1,12 @@
-## Hi there 👋
+# monkethemes
+monkethemes is an open-source project for sharing and interacting with custom-made MonkeyType themes. Users can simply provide a theme link and our backend generates all the previews. We also have a neat Discord integration for sharing and liking themes directly from the MonkeyType Discord server.
 
-<!--
+**Highlights:**
+- 💾 Share your MonkeyType themes
+- 🔍 Instant search with instantsearch.js
+- 🎨 Customise your themes
+- 💬 Discord integration
+- 🔦 Theme filtering based on various criteria
 
-**Here are some ideas to get you started:**
+Feel free to explore the source code and contribute. Please keep in mind, this project is not built to be immediately replicable. Changes will have to be made to the source code if you would like to host this yourself.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
